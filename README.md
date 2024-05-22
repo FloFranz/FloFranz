@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Florian, a PhD student specializing in forestry remote sensing 🌲🛰. My work revolves around enhancing forest management planning through advanced remote sensing techniques.
+I'm Florian, a PhD student specializing in forestry remote sensing 🌲🛰. My work revolves around enhancing forest management planning through advanced remote sensing techniques. Detailed information can be found [here](https://www.uni-goettingen.de/en/677000.html). 
 
 ### 🔭 Current Work
 - Researching forest structures using remote sensing data from various platforms, primarily airplanes and drones.
