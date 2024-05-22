@@ -7,7 +7,7 @@ I'm Florian, a PhD student specializing in forestry remote sensing 🌲🛰. My 
 - Focusing on LiDAR data and image-based methods to develop cross-technological approaches.
 - Methodologically, applying automated and reproducible procedures from the fields of machine learning and deep learning.
 
-### 🌱 Learning and Interests
+### 📚 Learning and Interests
 - Deeply interested in climatology and the impacts of climate change on forest ecosystems.
 - Passionate about open-source projects, especially in the context of remote sensing and spatial analysis.
 
