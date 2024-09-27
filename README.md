@@ -12,7 +12,10 @@ I'm Florian, a PhD student specializing in forestry remote sensing 🌲🛰. My 
 - Passionate about open-source projects, especially in the context of remote sensing and spatial analysis.
 
 ### 👯 Collaboration and Contributions
-- Eager to collaborate on projects that involve remote sensing, forestry, or climate change research.
+- Eager to collaborate on projects that involve remote sensing, spatial data analysis, or climate change research.
+
+### ⚡ Fun fact
+- I'm passionate about all kinds of maps. If you want to catch my attention, just show me one!
 
 ### 📫 How to Reach Me
 - [Email](mailto:florian.franz@nw-fva.de)
