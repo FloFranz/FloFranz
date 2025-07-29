@@ -17,6 +17,10 @@ I'm Florian, a PhD student specializing in forestry remote sensing 🌲🛰. My 
 ### ⚡ Fun fact
 - I'm passionate about all kinds of maps. If you want to catch my attention, just show me one!
 
+### 🧭 Motto for Life
+> *“You can have data without information, but you cannot have information without data.”*  
+> — Daniel Keys Moran
+
 ### 📫 How to Reach Me
 - [Email](mailto:florian.franz@nw-fva.de)
 
